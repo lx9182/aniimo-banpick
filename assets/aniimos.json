@@ -1,0 +1,2310 @@
+{
+  "version": 2,
+  "updatedAt": "2026-11-16",
+  "source": "https://wiki.aniimo.com/ (en-US)",
+  "note": "Crawled from the official Aniimo wiki. id = image file name without extension. Art: assets/aniimos/<id>.webp, extra forms: assets/aniimos/<id>-<form>.webp. types = canonical element ids, stage = 1..4, forms = every non-default form.",
+  "types": [
+    "light",
+    "fire",
+    "ice",
+    "dark",
+    "lightning",
+    "grass",
+    "water",
+    "rock",
+    "wind"
+  ],
+  "items": [
+    {
+      "id": "bailite",
+      "name": "Bailite",
+      "types": [
+        "rock"
+      ],
+      "stage": 3,
+      "img": "bailite.webp",
+      "src": "Wiki_Aniimo_10433.png",
+      "forms": []
+    },
+    {
+      "id": "baleetle",
+      "name": "Baleetle",
+      "types": [
+        "rock"
+      ],
+      "stage": 1,
+      "img": "baleetle.webp",
+      "src": "Wiki_Aniimo_10451.png",
+      "forms": [
+        {
+          "id": "snowfield",
+          "img": "baleetle-snowfield.webp",
+          "types": [
+            "rock",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "besauce",
+      "name": "Besauce",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "besauce.webp",
+      "src": "Wiki_Aniimo_10122.png",
+      "forms": []
+    },
+    {
+      "id": "blazen",
+      "name": "Blazen",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "blazen.webp",
+      "src": "Wiki_Aniimo_10222.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "blazen-prismana.webp",
+          "types": [
+            "dark",
+            "lightning"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "blazen-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "bolty",
+      "name": "Bolty",
+      "types": [
+        "lightning"
+      ],
+      "stage": 1,
+      "img": "bolty.webp",
+      "src": "Wiki_Aniimo_10221.png",
+      "forms": [
+        {
+          "id": "timberline",
+          "img": "bolty-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "bonesky",
+      "name": "Bonesky",
+      "types": [
+        "ice"
+      ],
+      "stage": 1,
+      "img": "bonesky.webp",
+      "src": "Wiki_Aniimo_10131.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "bonesky-nighttime.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bouldus",
+      "name": "Bouldus",
+      "types": [
+        "rock"
+      ],
+      "stage": 3,
+      "img": "bouldus.webp",
+      "src": "Wiki_Aniimo_10454.png",
+      "forms": [
+        {
+          "id": "snowfield",
+          "img": "bouldus-snowfield.webp",
+          "types": [
+            "rock",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bubbeep",
+      "name": "Bubbeep",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stage": 1,
+      "img": "bubbeep.webp",
+      "src": "Wiki_Aniimo_10581.png",
+      "forms": []
+    },
+    {
+      "id": "budclaw",
+      "name": "Budclaw",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "stage": 1,
+      "img": "budclaw.webp",
+      "src": "Wiki_Aniimo_10161.png",
+      "forms": [
+        {
+          "id": "bay",
+          "img": "budclaw-bay.webp",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": "beach",
+          "img": "budclaw-beach.webp",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": "mudflat",
+          "img": "budclaw-mudflat.webp",
+          "types": [
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "budsquire",
+      "name": "Budsquire",
+      "types": [
+        "grass"
+      ],
+      "stage": 1,
+      "img": "budsquire.webp",
+      "src": "Wiki_Aniimo_10321.png",
+      "forms": [
+        {
+          "id": "towerwood",
+          "img": "budsquire-towerwood.webp"
+        }
+      ]
+    },
+    {
+      "id": "buffby",
+      "name": "Buffby",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "buffby.webp",
+      "src": "Wiki_Aniimo_10613.png",
+      "forms": []
+    },
+    {
+      "id": "bulbly",
+      "name": "Bulbly",
+      "types": [
+        "lightning"
+      ],
+      "stage": 1,
+      "img": "bulbly.webp",
+      "src": "Wiki_Aniimo_10141.png",
+      "forms": []
+    },
+    {
+      "id": "celestis",
+      "name": "Celestis",
+      "types": [
+        "dark"
+      ],
+      "stage": 1,
+      "img": "celestis.webp",
+      "src": "Wiki_Aniimo_10011.png",
+      "forms": []
+    },
+    {
+      "id": "chirpi",
+      "name": "Chirpi",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "chirpi.webp",
+      "src": "Wiki_Aniimo_10181.png",
+      "forms": [
+        {
+          "id": "beach",
+          "img": "chirpi-beach.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "chirpi-highland.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coinwisp",
+      "name": "Coinwisp",
+      "types": [
+        "dark"
+      ],
+      "stage": 1,
+      "img": "coinwisp.webp",
+      "src": "Wiki_Aniimo_10631.png",
+      "forms": []
+    },
+    {
+      "id": "coraliz",
+      "name": "Coraliz",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "stage": 3,
+      "img": "coraliz.webp",
+      "src": "Wiki_Aniimo_10383.png",
+      "forms": [
+        {
+          "id": "rainfall",
+          "img": "coraliz-rainfall.webp",
+          "types": [
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cornet",
+      "name": "Cornet",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "cornet.webp",
+      "src": "Wiki_Aniimo_10185.png",
+      "forms": [
+        {
+          "id": "beach",
+          "img": "cornet-beach.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "cornet-highland.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        },
+        {
+          "id": "prismana",
+          "img": "cornet-prismana.webp",
+          "types": [
+            "wind",
+            "lightning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cozite",
+      "name": "Cozite",
+      "types": [
+        "rock"
+      ],
+      "stage": 1,
+      "img": "cozite.webp",
+      "src": "Wiki_Aniimo_10431.png",
+      "forms": []
+    },
+    {
+      "id": "crocobask",
+      "name": "Crocobask",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stage": 3,
+      "img": "crocobask.webp",
+      "src": "Wiki_Aniimo_10603.png",
+      "forms": []
+    },
+    {
+      "id": "cubbo",
+      "name": "Cubbo",
+      "types": [
+        "rock"
+      ],
+      "stage": 1,
+      "img": "cubbo.webp",
+      "src": "Wiki_Aniimo_10501.png",
+      "forms": []
+    },
+    {
+      "id": "dazmand",
+      "name": "Dazmand",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "dazmand.webp",
+      "src": "Wiki_Aniimo_10474.png",
+      "forms": []
+    },
+    {
+      "id": "dewlop",
+      "name": "Dewlop",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "dewlop.webp",
+      "src": "Wiki_Aniimo_10651.png",
+      "forms": [
+        {
+          "id": "waterfall",
+          "img": "dewlop-waterfall.webp"
+        }
+      ]
+    },
+    {
+      "id": "dewple",
+      "name": "Dewple",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "dewple.webp",
+      "src": "Wiki_Aniimo_10653.png",
+      "forms": [
+        {
+          "id": "waterfall",
+          "img": "dewple-waterfall.webp"
+        }
+      ]
+    },
+    {
+      "id": "dewy",
+      "name": "Dewy",
+      "types": [
+        "dark"
+      ],
+      "stage": 1,
+      "img": "dewy.webp",
+      "src": "Wiki_Aniimo_10351.png",
+      "forms": []
+    },
+    {
+      "id": "dreaple",
+      "name": "Dreaple",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "dreaple.webp",
+      "src": "Wiki_Aniimo_10263.png",
+      "forms": []
+    },
+    {
+      "id": "eklue",
+      "name": "Eklue",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "eklue.webp",
+      "src": "Wiki_Aniimo_10443.png",
+      "forms": []
+    },
+    {
+      "id": "eko",
+      "name": "Eko",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "eko.webp",
+      "src": "Wiki_Aniimo_10441.png",
+      "forms": []
+    },
+    {
+      "id": "ekrim",
+      "name": "Ekrim",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "ekrim.webp",
+      "src": "Wiki_Aniimo_10444.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "ekrim-prismana.webp",
+          "types": [
+            "fire",
+            "dark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "emberpup",
+      "name": "Emberpup",
+      "types": [
+        "fire"
+      ],
+      "stage": 1,
+      "img": "emberpup.webp",
+      "src": "Wiki_Aniimo_10051.png",
+      "forms": [
+        {
+          "id": "highland",
+          "img": "emberpup-highland.webp",
+          "types": [
+            "fire",
+            "rock"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "emberpup-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "erlath",
+      "name": "Erlath",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "erlath.webp",
+      "src": "Wiki_Aniimo_10483.png",
+      "forms": []
+    },
+    {
+      "id": "fahloo",
+      "name": "Fahloo",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "fahloo.webp",
+      "src": "Wiki_Aniimo_10481.png",
+      "forms": []
+    },
+    {
+      "id": "fenmane",
+      "name": "Fenmane",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "fenmane.webp",
+      "src": "Wiki_Aniimo_10293.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "fenmane-prismana.webp",
+          "types": [
+            "light",
+            "lightning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fenrier",
+      "name": "Fenrier",
+      "types": [
+        "ice"
+      ],
+      "stage": 2,
+      "img": "fenrier.webp",
+      "src": "Wiki_Aniimo_10132.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "fenrier-nighttime.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fentuft",
+      "name": "Fentuft",
+      "types": [
+        "lightning"
+      ],
+      "stage": 1,
+      "img": "fentuft.webp",
+      "src": "Wiki_Aniimo_10291.png",
+      "forms": []
+    },
+    {
+      "id": "flamerion",
+      "name": "Flamerion",
+      "types": [
+        "fire"
+      ],
+      "stage": 3,
+      "img": "flamerion.webp",
+      "src": "Wiki_Aniimo_10333.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "flamerion-flowerfield.webp"
+        },
+        {
+          "id": "forest",
+          "img": "flamerion-forest.webp"
+        },
+        {
+          "id": "highland",
+          "img": "flamerion-highland.webp"
+        }
+      ]
+    },
+    {
+      "id": "flameruff",
+      "name": "Flameruff",
+      "types": [
+        "fire"
+      ],
+      "stage": 2,
+      "img": "flameruff.webp",
+      "src": "Wiki_Aniimo_10052.png",
+      "forms": [
+        {
+          "id": "highland",
+          "img": "flameruff-highland.webp",
+          "types": [
+            "fire",
+            "rock"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "flameruff-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "flutternym",
+      "name": "Flutternym",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "flutternym.webp",
+      "src": "Wiki_Aniimo_10231.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "flutternym-flowerfield.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        },
+        {
+          "id": "nighttime",
+          "img": "flutternym-nighttime.webp",
+          "types": [
+            "dark",
+            "wind"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "flutternym-timberline.webp",
+          "types": [
+            "wind",
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fragrancier",
+      "name": "Fragrancier",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "fragrancier.webp",
+      "src": "Wiki_Aniimo_10352.png",
+      "forms": []
+    },
+    {
+      "id": "fulmintis",
+      "name": "Fulmintis",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "fulmintis.webp",
+      "src": "Wiki_Aniimo_10033.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "fulmintis-prismana.webp",
+          "types": [
+            "light",
+            "lightning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gachapus",
+      "name": "Gachapus",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "gachapus.webp",
+      "src": "Wiki_Aniimo_10623.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "gachapus-prismana.webp",
+          "types": [
+            "dark",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geoclaw",
+      "name": "Geoclaw",
+      "types": [
+        "ice"
+      ],
+      "stage": 3,
+      "img": "geoclaw.webp",
+      "src": "Wiki_Aniimo_10163.png",
+      "forms": []
+    },
+    {
+      "id": "geodeback",
+      "name": "Geodeback",
+      "types": [
+        "rock"
+      ],
+      "stage": 2,
+      "img": "geodeback.webp",
+      "src": "Wiki_Aniimo_10284.png",
+      "forms": []
+    },
+    {
+      "id": "glacy",
+      "name": "Glacy",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "stage": 3,
+      "img": "glacy.webp",
+      "src": "Wiki_Aniimo_10043.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "glacy-flowerfield.webp"
+        },
+        {
+          "id": "prismana",
+          "img": "glacy-prismana.webp",
+          "types": [
+            "light",
+            "water"
+          ]
+        },
+        {
+          "id": "snowfield",
+          "img": "glacy-snowfield.webp"
+        }
+      ]
+    },
+    {
+      "id": "glameep",
+      "name": "Glameep",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stage": 3,
+      "img": "glameep.webp",
+      "src": "Wiki_Aniimo_10583.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "glameep-prismana.webp",
+          "types": [
+            "dark",
+            "grass"
+          ]
+        },
+        {
+          "id": "tempest",
+          "img": "glameep-tempest.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "glynsera",
+      "name": "Glynsera",
+      "types": [
+        "ice"
+      ],
+      "stage": 3,
+      "img": "glynsera.webp",
+      "src": "Wiki_Aniimo_10133.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "glynsera-nighttime.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        {
+          "id": "prismana",
+          "img": "glynsera-prismana.webp",
+          "types": [
+            "light",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gracewing",
+      "name": "Gracewing",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "gracewing.webp",
+      "src": "Wiki_Aniimo_10232.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "gracewing-flowerfield.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        },
+        {
+          "id": "nighttime",
+          "img": "gracewing-nighttime.webp",
+          "types": [
+            "dark",
+            "wind"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "gracewing-timberline.webp",
+          "types": [
+            "wind",
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grizbo",
+      "name": "Grizbo",
+      "types": [
+        "rock"
+      ],
+      "stage": 3,
+      "img": "grizbo.webp",
+      "src": "Wiki_Aniimo_10503.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "grizbo-prismana.webp",
+          "types": [
+            "dark",
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "helgon",
+      "name": "Helgon",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "helgon.webp",
+      "src": "Wiki_Aniimo_10023.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "helgon-mountain.webp"
+        }
+      ]
+    },
+    {
+      "id": "helion",
+      "name": "Helion",
+      "types": [
+        "light"
+      ],
+      "stage": 1,
+      "img": "helion.webp",
+      "src": "Wiki_Aniimo_10361.png",
+      "forms": []
+    },
+    {
+      "id": "helmut",
+      "name": "Helmut",
+      "types": [
+        "dark"
+      ],
+      "stage": 1,
+      "img": "helmut.webp",
+      "src": "Wiki_Aniimo_10021.png",
+      "forms": [
+        {
+          "id": "snowfield",
+          "img": "helmut-snowfield.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "helmut-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "helmwhelp",
+      "name": "Helmwhelp",
+      "types": [
+        "wind"
+      ],
+      "stage": 2,
+      "img": "helmwhelp.webp",
+      "src": "Wiki_Aniimo_10022.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "helmwhelp-mountain.webp"
+        }
+      ]
+    },
+    {
+      "id": "hexxin",
+      "name": "Hexxin",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stage": 3,
+      "img": "hexxin.webp",
+      "src": "Wiki_Aniimo_10203.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "hexxin-mountain.webp"
+        },
+        {
+          "id": "prismana",
+          "img": "hexxin-prismana.webp"
+        }
+      ]
+    },
+    {
+      "id": "hoptail",
+      "name": "Hoptail",
+      "types": [
+        "wind",
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "hoptail.webp",
+      "src": "Wiki_Aniimo_10223.png",
+      "forms": []
+    },
+    {
+      "id": "hummin",
+      "name": "Hummin",
+      "types": [
+        "grass"
+      ],
+      "stage": 1,
+      "img": "hummin.webp",
+      "src": "Wiki_Aniimo_10201.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "hummin-mountain.webp"
+        }
+      ]
+    },
+    {
+      "id": "hypnowl",
+      "name": "Hypnowl",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "hypnowl.webp",
+      "src": "Wiki_Aniimo_10571.png",
+      "forms": []
+    },
+    {
+      "id": "hypnyto",
+      "name": "Hypnyto",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "hypnyto.webp",
+      "src": "Wiki_Aniimo_10574.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "hypnyto-prismana.webp",
+          "types": [
+            "light",
+            "wind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ignitis",
+      "name": "Ignitis",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "ignitis.webp",
+      "src": "Wiki_Aniimo_10032.png",
+      "forms": [
+        {
+          "id": "forest",
+          "img": "ignitis-forest.webp",
+          "types": [
+            "dark",
+            "grass"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "ignitis-highland.webp",
+          "types": [
+            "fire",
+            "dark"
+          ]
+        },
+        {
+          "id": "prismana",
+          "img": "ignitis-prismana.webp",
+          "types": [
+            "fire",
+            "dark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "infergon",
+      "name": "Infergon",
+      "types": [
+        "fire"
+      ],
+      "stage": 3,
+      "img": "infergon.webp",
+      "src": "Wiki_Aniimo_10025.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "infergon-prismana.webp",
+          "types": [
+            "fire",
+            "wind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "inferlupa",
+      "name": "Inferlupa",
+      "types": [
+        "fire",
+        "dark"
+      ],
+      "stage": 3,
+      "img": "inferlupa.webp",
+      "src": "Wiki_Aniimo_10055.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "inferlupa-prismana.webp"
+        }
+      ]
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "types": [
+        "grass"
+      ],
+      "stage": 1,
+      "img": "iris.webp",
+      "src": "Wiki_Aniimo_10211.png",
+      "forms": [
+        {
+          "id": "forest",
+          "img": "iris-forest.webp"
+        },
+        {
+          "id": "grassland",
+          "img": "iris-grassland.webp"
+        },
+        {
+          "id": "highland",
+          "img": "iris-highland.webp"
+        },
+        {
+          "id": "plateau",
+          "img": "iris-plateau.webp"
+        },
+        {
+          "id": "prismana",
+          "img": "iris-prismana.webp"
+        },
+        {
+          "id": "timberline",
+          "img": "iris-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "irisal",
+      "name": "Irisal",
+      "types": [
+        "grass"
+      ],
+      "stage": 3,
+      "img": "irisal.webp",
+      "src": "Wiki_Aniimo_10212.png",
+      "forms": [
+        {
+          "id": "forest",
+          "img": "irisal-forest.webp"
+        },
+        {
+          "id": "grassland",
+          "img": "irisal-grassland.webp"
+        },
+        {
+          "id": "highland",
+          "img": "irisal-highland.webp"
+        },
+        {
+          "id": "plateau",
+          "img": "irisal-plateau.webp"
+        },
+        {
+          "id": "prismana",
+          "img": "irisal-prismana.webp"
+        },
+        {
+          "id": "timberline",
+          "img": "irisal-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "irisalis",
+      "name": "Irisalis",
+      "types": [
+        "grass"
+      ],
+      "stage": 4,
+      "img": "irisalis-prismana.webp",
+      "src": "Wiki_Aniimo_10213.png",
+      "forms": []
+    },
+    {
+      "id": "jabster",
+      "name": "Jabster",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "stage": 3,
+      "img": "jabster.webp",
+      "src": "Wiki_Aniimo_10403.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "jabster-prismana.webp",
+          "types": [
+            "lightning",
+            "ice"
+          ]
+        },
+        {
+          "id": "rainfall",
+          "img": "jabster-rainfall.webp",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jaguaraun",
+      "name": "Jaguaraun",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "jaguaraun.webp",
+      "src": "Wiki_Aniimo_10713.png",
+      "forms": []
+    },
+    {
+      "id": "jawling",
+      "name": "Jawling",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "jawling.webp",
+      "src": "Wiki_Aniimo_10024.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "jawling-mountain.webp"
+        }
+      ]
+    },
+    {
+      "id": "jeburst",
+      "name": "Jeburst",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "jeburst.webp",
+      "src": "Wiki_Aniimo_10693.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "jeburst-prismana.webp",
+          "types": [
+            "dark",
+            "water"
+          ]
+        },
+        {
+          "id": "tempest",
+          "img": "jeburst-tempest.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "jeglid",
+      "name": "Jeglid",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "jeglid.webp",
+      "src": "Wiki_Aniimo_10691.png",
+      "forms": [
+        {
+          "id": "tempest",
+          "img": "jeglid-tempest.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lavazar",
+      "name": "Lavazar",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "stage": 2,
+      "img": "lavazar.webp",
+      "src": "Wiki_Aniimo_10282.png",
+      "forms": []
+    },
+    {
+      "id": "leafy",
+      "name": "Leafy",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stage": 3,
+      "img": "leafy.webp",
+      "src": "Wiki_Aniimo_10045.png",
+      "forms": []
+    },
+    {
+      "id": "lilipole",
+      "name": "Lilipole",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "lilipole.webp",
+      "src": "Wiki_Aniimo_10541.png",
+      "forms": []
+    },
+    {
+      "id": "luminelle",
+      "name": "Luminelle",
+      "types": [
+        "lightning"
+      ],
+      "stage": 3,
+      "img": "luminelle.webp",
+      "src": "Wiki_Aniimo_10143.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "luminelle-prismana.webp",
+          "types": [
+            "light",
+            "lightning"
+          ]
+        },
+        {
+          "id": "rainfall",
+          "img": "luminelle-rainfall.webp",
+          "types": [
+            "lightning",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lunara",
+      "name": "Lunara",
+      "types": [
+        "light"
+      ],
+      "stage": 1,
+      "img": "lunara.webp",
+      "src": "Wiki_Aniimo_10371.png",
+      "forms": []
+    },
+    {
+      "id": "magmarex",
+      "name": "Magmarex",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "stage": 3,
+      "img": "magmarex.webp",
+      "src": "Wiki_Aniimo_10283.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "magmarex-prismana.webp",
+          "types": [
+            "fire",
+            "dark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "melloblum",
+      "name": "Melloblum",
+      "types": [
+        "grass"
+      ],
+      "stage": 3,
+      "img": "melloblum.webp",
+      "src": "Wiki_Aniimo_10324.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "melloblum-prismana.webp",
+          "types": [
+            "light",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mesmerowl",
+      "name": "Mesmerowl",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "mesmerowl.webp",
+      "src": "Wiki_Aniimo_10573.png",
+      "forms": []
+    },
+    {
+      "id": "minespine",
+      "name": "Minespine",
+      "types": [
+        "rock"
+      ],
+      "stage": 3,
+      "img": "minespine.webp",
+      "src": "Wiki_Aniimo_10285.png",
+      "forms": []
+    },
+    {
+      "id": "nimbi",
+      "name": "Nimbi",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "nimbi.webp",
+      "src": "Wiki_Aniimo_10261.png",
+      "forms": [
+        {
+          "id": "cloudmist",
+          "img": "nimbi-cloudmist.webp"
+        },
+        {
+          "id": "plateau",
+          "img": "nimbi-plateau.webp",
+          "types": [
+            "wind",
+            "ice"
+          ]
+        },
+        {
+          "id": "rainfall",
+          "img": "nimbi-rainfall.webp",
+          "types": [
+            "wind",
+            "lightning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "panpanta",
+      "name": "Panpanta",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "panpanta.webp",
+      "src": "Wiki_Aniimo_10174.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "panpanta-nighttime.webp"
+        },
+        {
+          "id": "prismana",
+          "img": "panpanta-prismana.webp"
+        }
+      ]
+    },
+    {
+      "id": "pawney",
+      "name": "Pawney",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "pawney.webp",
+      "src": "Wiki_Aniimo_10026.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "pawney-prismana.webp"
+        },
+        {
+          "id": "snowfield",
+          "img": "pawney-snowfield.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "pawney-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "pebbling",
+      "name": "Pebbling",
+      "types": [
+        "rock"
+      ],
+      "stage": 1,
+      "img": "pebbling.webp",
+      "src": "Wiki_Aniimo_10281.png",
+      "forms": []
+    },
+    {
+      "id": "piopiota",
+      "name": "Piopiota",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "piopiota.webp",
+      "src": "Wiki_Aniimo_10173.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "piopiota-nighttime.webp",
+          "types": [
+            "dark",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pomawk",
+      "name": "Pomawk",
+      "types": [
+        "grass"
+      ],
+      "stage": 3,
+      "img": "pomawk.webp",
+      "src": "Wiki_Aniimo_10475.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "pomawk-flowerfield.webp"
+        },
+        {
+          "id": "highland",
+          "img": "pomawk-highland.webp"
+        },
+        {
+          "id": "snowfield",
+          "img": "pomawk-snowfield.webp",
+          "types": [
+            "grass",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pomegg",
+      "name": "Pomegg",
+      "types": [
+        "grass"
+      ],
+      "stage": 1,
+      "img": "pomegg.webp",
+      "src": "Wiki_Aniimo_10471.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "pomegg-flowerfield.webp"
+        },
+        {
+          "id": "highland",
+          "img": "pomegg-highland.webp"
+        },
+        {
+          "id": "snowfield",
+          "img": "pomegg-snowfield.webp",
+          "types": [
+            "grass",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "popapus",
+      "name": "Popapus",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "popapus.webp",
+      "src": "Wiki_Aniimo_10621.png",
+      "forms": []
+    },
+    {
+      "id": "popota",
+      "name": "Popota",
+      "types": [
+        "water"
+      ],
+      "stage": 2,
+      "img": "popota.webp",
+      "src": "Wiki_Aniimo_10172.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "popota-nighttime.webp"
+        }
+      ]
+    },
+    {
+      "id": "pouchwisp",
+      "name": "Pouchwisp",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "pouchwisp.webp",
+      "src": "Wiki_Aniimo_10633.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "pouchwisp-prismana.webp"
+        }
+      ]
+    },
+    {
+      "id": "pranky",
+      "name": "Pranky",
+      "types": [
+        "water"
+      ],
+      "stage": 2,
+      "img": "pranky.webp",
+      "src": "Wiki_Aniimo_10042.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "pranky-flowerfield.webp"
+        },
+        {
+          "id": "snowfield",
+          "img": "pranky-snowfield.webp",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "prawnch",
+      "name": "Prawnch",
+      "types": [
+        "ice"
+      ],
+      "stage": 1,
+      "img": "prawnch.webp",
+      "src": "Wiki_Aniimo_10401.png",
+      "forms": []
+    },
+    {
+      "id": "puffby",
+      "name": "Puffby",
+      "types": [
+        "wind"
+      ],
+      "stage": 1,
+      "img": "puffby.webp",
+      "src": "Wiki_Aniimo_10611.png",
+      "forms": []
+    },
+    {
+      "id": "reefish",
+      "name": "Reefish",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "stage": 1,
+      "img": "reefish.webp",
+      "src": "Wiki_Aniimo_10381.png",
+      "forms": [
+        {
+          "id": "rainfall",
+          "img": "reefish-rainfall.webp",
+          "types": [
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "rookey",
+      "name": "Rookey",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "rookey.webp",
+      "src": "Wiki_Aniimo_10027.png",
+      "forms": [
+        {
+          "id": "snowfield",
+          "img": "rookey-snowfield.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "rookey-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "royalby",
+      "name": "Royalby",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "royalby.webp",
+      "src": "Wiki_Aniimo_10614.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "royalby-prismana.webp",
+          "types": [
+            "light",
+            "wind"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "salabask",
+      "name": "Salabask",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stage": 1,
+      "img": "salabask.webp",
+      "src": "Wiki_Aniimo_10601.png",
+      "forms": []
+    },
+    {
+      "id": "saws",
+      "name": "Saws",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "saws.webp",
+      "src": "Wiki_Aniimo_10391.png",
+      "forms": []
+    },
+    {
+      "id": "scorchhowl",
+      "name": "Scorchhowl",
+      "types": [
+        "fire"
+      ],
+      "stage": 3,
+      "img": "scorchhowl.webp",
+      "src": "Wiki_Aniimo_10053.png",
+      "forms": [
+        {
+          "id": "highland",
+          "img": "scorchhowl-highland.webp",
+          "types": [
+            "fire",
+            "rock"
+          ]
+        },
+        {
+          "id": "prismana",
+          "img": "scorchhowl-prismana.webp"
+        },
+        {
+          "id": "thunderstorm",
+          "img": "scorchhowl-thunderstorm.webp",
+          "types": [
+            "fire",
+            "lightning"
+          ]
+        },
+        {
+          "id": "timberline",
+          "img": "scorchhowl-timberline.webp"
+        }
+      ]
+    },
+    {
+      "id": "scrubbit",
+      "name": "Scrubbit",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "scrubbit.webp",
+      "src": "Wiki_Aniimo_10543.png",
+      "forms": [
+        {
+          "id": "rainfall",
+          "img": "scrubbit-rainfall.webp"
+        }
+      ]
+    },
+    {
+      "id": "sheldon",
+      "name": "Sheldon",
+      "types": [
+        "water"
+      ],
+      "stage": 2,
+      "img": "sheldon.webp",
+      "src": "Wiki_Aniimo_10192.png",
+      "forms": []
+    },
+    {
+      "id": "shelly",
+      "name": "Shelly",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "shelly.webp",
+      "src": "Wiki_Aniimo_10191.png",
+      "forms": []
+    },
+    {
+      "id": "sherro",
+      "name": "Sherro",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "sherro.webp",
+      "src": "Wiki_Aniimo_10194.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "sherro-prismana.webp",
+          "types": [
+            "light",
+            "water"
+          ]
+        },
+        {
+          "id": "thunderstorm",
+          "img": "sherro-thunderstorm.webp",
+          "types": [
+            "lightning",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shrubclaw",
+      "name": "Shrubclaw",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "stage": 3,
+      "img": "shrubclaw.webp",
+      "src": "Wiki_Aniimo_10162.png",
+      "forms": [
+        {
+          "id": "bay",
+          "img": "shrubclaw-bay.webp",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": "beach",
+          "img": "shrubclaw-beach.webp",
+          "types": [
+            "rock"
+          ]
+        },
+        {
+          "id": "mudflat",
+          "img": "shrubclaw-mudflat.webp",
+          "types": [
+            "rock"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "skippy",
+      "name": "Skippy",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "skippy.webp",
+      "src": "Wiki_Aniimo_10041.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "skippy-flowerfield.webp"
+        },
+        {
+          "id": "snowfield",
+          "img": "skippy-snowfield.webp",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "somniwing",
+      "name": "Somniwing",
+      "types": [
+        "wind",
+        "grass"
+      ],
+      "stage": 4,
+      "img": "somniwing-prismana.webp",
+      "src": "Wiki_Aniimo_10233.png",
+      "forms": []
+    },
+    {
+      "id": "sparkelf",
+      "name": "Sparkelf",
+      "types": [
+        "fire"
+      ],
+      "stage": 3,
+      "img": "sparkelf.webp",
+      "src": "Wiki_Aniimo_69993.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "sparkelf-prismana.webp"
+        }
+      ]
+    },
+    {
+      "id": "sparki",
+      "name": "Sparki",
+      "types": [
+        "fire"
+      ],
+      "stage": 1,
+      "img": "sparki.webp",
+      "src": "Wiki_Aniimo_10331.png",
+      "forms": [
+        {
+          "id": "flowerfield",
+          "img": "sparki-flowerfield.webp"
+        },
+        {
+          "id": "forest",
+          "img": "sparki-forest.webp"
+        },
+        {
+          "id": "highland",
+          "img": "sparki-highland.webp"
+        }
+      ]
+    },
+    {
+      "id": "squarrel",
+      "name": "Squarrel",
+      "types": [
+        "fire"
+      ],
+      "stage": 1,
+      "img": "squarrel.webp",
+      "src": "Wiki_Aniimo_10511.png",
+      "forms": []
+    },
+    {
+      "id": "squashel",
+      "name": "Squashel",
+      "types": [
+        "fire"
+      ],
+      "stage": 3,
+      "img": "squashel.webp",
+      "src": "Wiki_Aniimo_10512.png",
+      "forms": []
+    },
+    {
+      "id": "stellarys",
+      "name": "Stellarys",
+      "types": [
+        "dark"
+      ],
+      "stage": 3,
+      "img": "stellarys.webp",
+      "src": "Wiki_Aniimo_10012.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "stellarys-prismana.webp",
+          "types": [
+            "dark",
+            "ice"
+          ]
+        },
+        {
+          "id": "rainfall",
+          "img": "stellarys-rainfall.webp",
+          "types": [
+            "dark",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sugarfish",
+      "name": "Sugarfish",
+      "types": [
+        "ice"
+      ],
+      "stage": 1,
+      "img": "sugarfish.webp",
+      "src": "Wiki_Aniimo_10591.png",
+      "forms": []
+    },
+    {
+      "id": "sugarslime",
+      "name": "Sugarslime",
+      "types": [
+        "ice"
+      ],
+      "stage": 3,
+      "img": "sugarslime.webp",
+      "src": "Wiki_Aniimo_10593.png",
+      "forms": []
+    },
+    {
+      "id": "sugartini",
+      "name": "Sugartini",
+      "types": [
+        "ice"
+      ],
+      "stage": 3,
+      "img": "sugartini.webp",
+      "src": "Wiki_Aniimo_10594.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "sugartini-prismana.webp",
+          "types": [
+            "water",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "susuta",
+      "name": "Susuta",
+      "types": [
+        "water"
+      ],
+      "stage": 1,
+      "img": "susuta.webp",
+      "src": "Wiki_Aniimo_10171.png",
+      "forms": [
+        {
+          "id": "nighttime",
+          "img": "susuta-nighttime.webp"
+        }
+      ]
+    },
+    {
+      "id": "thornblade",
+      "name": "Thornblade",
+      "types": [
+        "grass"
+      ],
+      "stage": 3,
+      "img": "thornblade.webp",
+      "src": "Wiki_Aniimo_10323.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "thornblade-prismana.webp",
+          "types": [
+            "grass",
+            "water"
+          ]
+        },
+        {
+          "id": "thunderstorm",
+          "img": "thornblade-thunderstorm.webp",
+          "types": [
+            "grass",
+            "lightning"
+          ]
+        },
+        {
+          "id": "towerwood",
+          "img": "thornblade-towerwood.webp"
+        }
+      ]
+    },
+    {
+      "id": "tromber",
+      "name": "Tromber",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "tromber.webp",
+      "src": "Wiki_Aniimo_10184.png",
+      "forms": [
+        {
+          "id": "beach",
+          "img": "tromber-beach.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "tromber-highland.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tubster",
+      "name": "Tubster",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "tubster.webp",
+      "src": "Wiki_Aniimo_10187.png",
+      "forms": [
+        {
+          "id": "beach",
+          "img": "tubster-beach.webp",
+          "types": [
+            "wind",
+            "water"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "tubster-highland.webp",
+          "types": [
+            "wind",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tuckin",
+      "name": "Tuckin",
+      "types": [
+        "grass"
+      ],
+      "stage": 3,
+      "img": "tuckin.webp",
+      "src": "Wiki_Aniimo_10207.png",
+      "forms": [
+        {
+          "id": "mountain",
+          "img": "tuckin-mountain.webp",
+          "types": [
+            "rock",
+            "grass"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "turbo",
+      "name": "Turbo",
+      "types": [
+        "wind"
+      ],
+      "stage": 3,
+      "img": "turbo.webp",
+      "src": "Wiki_Aniimo_10262.png",
+      "forms": [
+        {
+          "id": "cloudmist",
+          "img": "turbo-cloudmist.webp"
+        },
+        {
+          "id": "plateau",
+          "img": "turbo-plateau.webp",
+          "types": [
+            "wind",
+            "ice"
+          ]
+        },
+        {
+          "id": "prismana",
+          "img": "turbo-prismana.webp",
+          "types": [
+            "dark",
+            "wind"
+          ]
+        },
+        {
+          "id": "rainfall",
+          "img": "turbo-rainfall.webp",
+          "types": [
+            "wind",
+            "lightning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "veilfloat",
+      "name": "Veilfloat",
+      "types": [
+        "lightning"
+      ],
+      "stage": 2,
+      "img": "veilfloat.webp",
+      "src": "Wiki_Aniimo_10142.png",
+      "forms": []
+    },
+    {
+      "id": "waleetle",
+      "name": "Waleetle",
+      "types": [
+        "rock"
+      ],
+      "stage": 3,
+      "img": "waleetle.webp",
+      "src": "Wiki_Aniimo_10453.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "waleetle-prismana.webp",
+          "types": [
+            "dark",
+            "rock"
+          ]
+        },
+        {
+          "id": "snowfield",
+          "img": "waleetle-snowfield.webp",
+          "types": [
+            "rock",
+            "ice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whirlbite",
+      "name": "Whirlbite",
+      "types": [
+        "water"
+      ],
+      "stage": 3,
+      "img": "whirlbite.webp",
+      "src": "Wiki_Aniimo_10393.png",
+      "forms": [
+        {
+          "id": "prismana",
+          "img": "whirlbite-prismana.webp",
+          "types": [
+            "dark",
+            "water"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wisptis",
+      "name": "Wisptis",
+      "types": [
+        "dark"
+      ],
+      "stage": 1,
+      "img": "wisptis.webp",
+      "src": "Wiki_Aniimo_10031.png",
+      "forms": [
+        {
+          "id": "forest",
+          "img": "wisptis-forest.webp",
+          "types": [
+            "dark",
+            "grass"
+          ]
+        },
+        {
+          "id": "highland",
+          "img": "wisptis-highland.webp",
+          "types": [
+            "fire",
+            "dark"
+          ]
+        }
+      ]
+    }
+  ]
+}
